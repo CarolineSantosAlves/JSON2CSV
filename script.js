@@ -54,7 +54,10 @@ function validaJson(str) {
 
 function csvToJson(){
     let conteudo = document.getElementById('conteudo').value;
-        
+    if(conteudo == ''){
+        alert('insira um texto para ser convertido')
+        return
+    }
 
     const regex = /(,|\r?\n|\r|^)(?:"([^"]*(?:""[^"]*)*)"|([^,\r\n]*))/gi;
     const lines = conteudo.split('\n'); 
