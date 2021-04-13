@@ -44,5 +44,6 @@ ___
 Esse projeto está sobe a licença MIT
 
 feito para estudos baseado em [app-ideias](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/JSON2CSV-App.md)
+
 Desenvolvido por Caroline Santos 👋 [Contato](https://www.linkedin.com/in/carol-santos-alves/)
 
